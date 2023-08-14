@@ -1,7 +1,8 @@
 # Sokim-Nam-Introduction
+
 Hello,
 
-I am a highly skilled and motivated .NET developer with a passion for creating innovative and efficient software solutions. With over 3 years of hands-on experience, I have honed my expertise in developing robust applications using the Microsoft .NET framework.
+I am a highly skilled and motivated <b>.NET developer</b> with a passion for creating innovative and efficient software solutions. With over 3 years of hands-on experience, I have honed my expertise in developing robust applications using the Microsoft .NET framework.
 
 Throughout my career, I have had the opportunity to work on diverse projects, ranging from web-based applications to desktop software, where I have gained a deep understanding of the intricacies of .NET development. My proficiency extends to utilizing various .NET technologies, such as ASP.NET, C#, .NET Core, and Entity Framework, to build scalable and maintainable solutions.
 
